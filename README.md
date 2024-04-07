@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Moinkins
-- 👀 I’m interested in learning python
-- 🌱 I’m currently learning python
+
 
 <!---
 Moinkins/Moinkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
